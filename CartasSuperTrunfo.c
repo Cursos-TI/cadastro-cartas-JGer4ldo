@@ -51,7 +51,7 @@ int main() {
 
     printf("\n========== ========== ========== ========== ========== \n\n");
 
-    // Uso do 'printf' e especificadores de formato para exibir a Carta 1
+    // Uso do 'printf', especificadores e modificadores de formato para exibir a Carta 1
     printf("CARTA 1:\n");
     printf("Estado: %c\n", estado1);
     printf("Código: %s\n", codigo_carta1);
@@ -90,7 +90,7 @@ int main() {
 
     printf("\n========== ========== ========== ========== ========== \n\n");
 
-    // Uso do 'printf' e especificadores de formato para exibir a Carta 2
+    // Uso do 'printf', especificadores e modificadores de formato para exibir a Carta 2
     printf("CARTA 2:\n");
     printf("Estado: %c\n", estado2);
     printf("Código: %s\n", codigo_carta2);
