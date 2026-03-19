@@ -108,5 +108,7 @@ int main() {
     pib_per2 = (float) pib2 * 1000000000 / populacao2;
     printf("PIB per Capita: %.2f reais\n\n", pib_per2);
 
+    printf("Fim da rodada. Obrigado pela interação!\n");
+
     return 0;
 }
